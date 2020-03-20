@@ -1,0 +1,225 @@
+.all{
+    background-color: #56B588;
+}
+.Main{
+    font-family: 'Roboto', sans-serif;
+    max-width: 1600px;
+    margin: 0 auto;
+    background-color: #171717;
+    color: white;
+}
+.Main .Header{
+    background-image:url('../../img/header_background.png');
+    background-size: cover;
+}
+.Main .Header .logo{
+    margin-left: 231px;
+    padding-top: 40px;
+}
+.Main .Header .Title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 92px;
+    color: #ECE8E8;
+    margin-top: 0;
+    padding-top: 182px;
+    margin-left: 199px;
+    margin-bottom: 33px;
+}
+.Main .Header .Text {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    color: #F9F7F7;
+    margin-top: 0px;
+    margin-left: 199px;
+    padding-bottom: 21px;
+    margin-bottom: 0;
+}
+.Services{
+   
+}
+.Services .ServicesBody{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Services .ServicesBody .Title{
+    margin:0;
+    color: white;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    padding-top: 200px;
+}
+.Services .ServicesBody .Items{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 1200px;
+    margin: 0 auto;
+    padding-top: 102px;
+}
+
+.Services .ServicesBody .Items .item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Services .ServicesBody .Items .item p{
+    color: white;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    margin: 0;
+}
+.Services .ServicesBody .Items .item img{
+padding-top: 82px;
+border-radius: 15px;
+}
+.buttonBox {
+    width: 100%;
+    padding-top: 179px;
+    padding-bottom: 179px;
+}
+.buttonBox #btn{
+    display: none;
+}
+.buttonBox .btn_label{
+    width: 359px;
+    height: 56px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #459529 ;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.buttonBox .btn_label p{
+    font-size: 28px;
+}
+.orderModal .modal-content{
+    border-radius: 15px;
+    margin-top: 15vh;
+   
+}
+.orderModal{
+    min-width: 1200px;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+    background-color: #333232;
+}
+.footer .footer_item{
+    padding-bottom: 20px;
+    margin-bottom: 6px;
+}
+
+.footer .footer_item p {
+    font-size: 24px;
+    margin-top: 9;
+    margin-bottom: 0;
+}
+.footer .footer_item .title {
+    font-size: 28px;
+    margin-top: 30px;
+}
+.footer .footer_item .icon {
+   cursor: pointer;
+}
+.orderModal .modalTitle {
+    color: #676363;
+    font-weight: normal;
+    font-size: 62px;    
+    line-height: 73px;
+    margin: 0;    
+}
+.orderModal .modalTitleText {
+    color: #676363;
+    font-weight: normal;
+    font-size: 42px;        
+    margin: 0;
+    padding-bottom: 110px;
+}
+.orderModal .modalBody {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.orderModal .modalBody .modalItem p{
+    font-size: 26px;
+}
+.orderModal .modalBody .modalItem input{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 1px solid #000000 ;
+    width: 352px;
+    margin-bottom: 54px;
+    outline:none;
+}
+.modalBtnBox{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 35px;
+}
+.modalBtnBox p{
+    margin: 0;
+    font-size: 28px;
+}
+.modalBtnBox .modalBtn{
+    width: 359px;
+    border-radius: 15px;
+}
+.orderModal .modalBody .modalItem input::placeholder{
+    font-size: 26px;
+    line-height: 30px;  
+    color: rgba(0, 0, 0, 0.19);
+}
+.x_icon{
+    position: absolute;
+    right: 20px;
+    cursor: pointer;
+}
+.goOrderText {
+    font-size: 42px;
+}
+.orderGoModal .modal-content{
+    border-radius: 15px;
+    margin-top: 10vh;    
+}
+.orderGoModal{
+    min-width: 1200px;
+
+}
+.orderGoModalBody{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.orderGoModalBody p{
+    text-align: center;
+    color: #676363;
+    margin-top: 45px;
+    margin-bottom: 51px;
+}
+.ok_icon{
+    cursor: pointer;
+}
+.x_icon_order{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    cursor: pointer;
+}
