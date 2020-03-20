@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/hookah-time/static/css/main.55dc83bb.chunk.css",
+    "main.js": "/hookah-time/static/js/main.40e94717.chunk.js",
+    "main.js.map": "/hookah-time/static/js/main.40e94717.chunk.js.map",
+    "runtime-main.js": "/hookah-time/static/js/runtime-main.9b9e1ced.js",
+    "runtime-main.js.map": "/hookah-time/static/js/runtime-main.9b9e1ced.js.map",
+    "static/css/2.7ad897a5.chunk.css": "/hookah-time/static/css/2.7ad897a5.chunk.css",
+    "static/js/2.eda9d3b8.chunk.js": "/hookah-time/static/js/2.eda9d3b8.chunk.js",
+    "static/js/2.eda9d3b8.chunk.js.map": "/hookah-time/static/js/2.eda9d3b8.chunk.js.map",
+    "index.html": "/hookah-time/index.html",
+    "precache-manifest.0d8560a52247ef71fb183f1353d96f6f.js": "/hookah-time/precache-manifest.0d8560a52247ef71fb183f1353d96f6f.js",
+    "service-worker.js": "/hookah-time/service-worker.js",
+    "static/css/2.7ad897a5.chunk.css.map": "/hookah-time/static/css/2.7ad897a5.chunk.css.map",
+    "static/css/main.55dc83bb.chunk.css.map": "/hookah-time/static/css/main.55dc83bb.chunk.css.map",
+    "static/js/2.eda9d3b8.chunk.js.LICENSE.txt": "/hookah-time/static/js/2.eda9d3b8.chunk.js.LICENSE.txt",
+    "static/media/facebook.svg": "/hookah-time/static/media/facebook.4956b695.svg",
+    "static/media/style.css": "/hookah-time/static/media/header_background.8ab26783.png",
+    "static/media/instagram.svg": "/hookah-time/static/media/instagram.583ec194.svg",
+    "static/media/item1.svg": "/hookah-time/static/media/item1.dcae4514.svg",
+    "static/media/item2.svg": "/hookah-time/static/media/item2.ce62faa9.svg",
+    "static/media/item3.svg": "/hookah-time/static/media/item3.baa1ecc0.svg",
+    "static/media/item4.svg": "/hookah-time/static/media/item4.5a1cf82b.svg",
+    "static/media/item5.svg": "/hookah-time/static/media/item5.064afa8f.svg",
+    "static/media/item6.svg": "/hookah-time/static/media/item6.bc0e14e5.svg",
+    "static/media/logo.svg": "/hookah-time/static/media/logo.ca009a46.svg",
+    "static/media/ok.svg": "/hookah-time/static/media/ok.474a8f9e.svg",
+    "static/media/telegram.svg": "/hookah-time/static/media/telegram.c74249cb.svg",
+    "static/media/x.svg": "/hookah-time/static/media/x.9fbab349.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b9e1ced.js",
+    "static/css/2.7ad897a5.chunk.css",
+    "static/js/2.eda9d3b8.chunk.js",
+    "static/css/main.55dc83bb.chunk.css",
+    "static/js/main.40e94717.chunk.js"
+  ]
+}
